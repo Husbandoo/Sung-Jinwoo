@@ -167,7 +167,7 @@ Note: the restart bat requires that User account control be disabled.
 
 For starters click on this button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pirate-Hunter/Sung-Jinwoo.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Husbandoo/Sung-Jinwoo.git)
 
 ## Credits
 
